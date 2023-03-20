@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PanchyLime" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/nuclear_green</item>
+        <item name="colorPrimaryVariant">@color/darker_green</item>
+        <item name="colorOnPrimary">@color/black_32</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/nuclear_green</item>
+        <item name="colorSecondaryVariant">@color/darker_green</item>
+        <item name="colorOnSecondary">@color/black_21</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="SplashScreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bag"
+        android:icon="@drawable/bag_icon"
+        android:title="@string/bag" />
+    <item
+        android:id="@+id/playIcon"
+        android:icon="@drawable/gam_icon"
+        android:title="@string/play" />
+    <item
+        android:id="@+id/index"
+        android:icon="@drawable/ind_icon"
+        android:title="@string/index"/>
+    <item
+        android:id="@+id/gacha"
+        android:icon="@drawable/gac_icon"
+        android:title="@string/gacha" />
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/acc_icon"
+        android:title="@string/user"
+         />
+</menu>

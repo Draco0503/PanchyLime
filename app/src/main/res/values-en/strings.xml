@@ -1,0 +1,75 @@
+<resources>
+    <!-- General strings -->
+    <string name="app_name">PanchyLime</string>
+
+    <!-- LoginActivity, RegisterActivity strings -->
+    <string name="user_hint">USER</string>
+    <string name="email_hint">EMAIL</string>
+    <string name="passwd_hint">PASSWORD</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_signin">REGISTER</string>
+
+    <string name="user_err">Enter a username</string>
+    <string name="email_err">Enter an email</string>
+    <string name="passwd_err">Invalid password</string>
+    <string name="login_err">Wrong data</string>
+    <string-array name="default_slimes">
+        <item>Green Slime</item>
+        <item>Pink Slime</item>
+        <item>Blue Slime</item>
+    </string-array>
+
+
+    <!-- IndexActivity strings -->
+    <!-- IndexFragment strings -->
+
+    <!-- BagFragment strings -->
+    <string name="fragBag_title">INVENTORY</string>
+    <!-- PlayFragment strings -->
+    <string name="fragPlay_title">GAMES</string>
+    <!-- TICTACTOE -->
+    <string name="game_2_title">TIC-TAC-TOE</string>
+    <string name="game_2_desc">TTypical traditional game, Tic-Tac-Toe, with our style.</string>
+    <string name="game_2_win">YOU WIN ^-^</string>
+    <string name="game_2_lose">YOU LOSE ;-;</string>
+    <string name="game_2_draw">DRAW -_-</string>
+    <!-- SAVE THE SLIME -->
+    <string name="game_1_title">SAVE THE SLIME</string>
+    <string name="game_1_desc">You have to dodge the raindrops that will fall on you.</string>
+    <string name="game_1_record">NEW RECORD</string>
+    <string name="game_1_normal">GG</string>
+
+    <!-- UserFragment strings -->
+    <string name="fragAcc_title">PROFILE</string>
+    <string name="fragAcc_userdata">USER DATA</string>
+    <string name="fragAcc_email">Email:</string>
+    <string name="fragAcc_count">Founded:</string>
+    <string name="fragAcc_date">Played since:</string>
+
+    <!-- GachaFragment strings -->
+    <string name="fragGacha_title">GACHA</string>
+    <string name="gacha_note">5 coins = 1 try</string>
+    <string name="coins_warning">Not enough coins</string>
+    <string name="newOne">NEW</string>
+
+    <!-- MenuBottomNavBar strings -->
+    <string name="index">Home</string>
+    <string name="play">Play</string>
+    <string name="bag">Bag</string>
+    <string name="gacha">Gacha</string>
+    <string name="user">Profile</string>
+
+    <!-- LogOutDialog strings -->
+    <string name="dialog_title">PANCHYLIME</string>
+    <string name="dialog_desc">Do you want to disconnect?</string>
+    <string name="dialog_ok">YES</string>
+    <string name="dialog_KO">NO</string>
+
+    <!-- GameDialog strings -->
+    <string name="result_title">RESULTS</string>
+
+    <!-- ERROR strings-->
+    <string name="fatal_error">FATAL ERROR PLEASE CONTACT WITH THE ADMINISTRATOR</string>
+    <string name="load_error">ERROR COULD NOT LOAD DATA</string>
+
+</resources>

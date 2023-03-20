@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/drawable/btn_shape.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/drawable/card_view.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/drawable/selected_card_view.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/drawable/splash.xml" value="0.209" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/drawable/view_shape.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/font/pixeled.xml" value="0.278125" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/activity_index.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/activity_login.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/activity_register.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/activity_saveslime.xml" value="0.3625" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/activity_ss_game_over.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/activity_tic_tac_toe.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/fragment_bag.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/fragment_gacha.xml" value="0.3625" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/fragment_index.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/fragment_play.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/fragment_user.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/gacha_dialog.xml" value="0.6186666666666667" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/game_dialog.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/info_dialog.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/logout_dialog.xml" value="0.2296875" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/sample_account_view.xml" value="0.3484375" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/sample_gacha_view.xml" value="0.3484375" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/sample_index_view.xml" value="0.3484375" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/sample_inventory_view.xml" value="0.3484375" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/layout/sample_playground_view.xml" value="0.3484375" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/menu/bottom_navbar.xml" value="0.33" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2645" />
+        <entry key="..\:/Users/Draco-Bakugan/AndroidStudioProjects/PanchyLime/app/src/main/res/mipmap-anydpi-v26/ic_panchylime_round.xml" value="0.2645" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

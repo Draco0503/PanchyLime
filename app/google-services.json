@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753752920733",
+    "firebase_url": "https://panchylime-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "panchylime",
+    "storage_bucket": "panchylime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753752920733:android:d87c09d54266567d2dfa74",
+        "android_client_info": {
+          "package_name": "com.drawin.panchylime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753752920733-v4qj55e2phpqhtr26l9ak1iulbn1cl0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drawin.panchylime",
+            "certificate_hash": "4dc7edf0a199106824c3aaf333855aa20410b938"
+          }
+        },
+        {
+          "client_id": "753752920733-0t85em316p4q8beqsddu0adh9uv8ev6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx47N-2XOC1BhQQwQeDF3hHIcYeNSYZkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753752920733-0t85em316p4q8beqsddu0adh9uv8ev6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

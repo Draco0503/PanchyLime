@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Widget.Theme.PanchyLime.MyView" parent="">
+        <item name="android:background">@color/clear_black_21</item>
+    </style>
+</resources>
